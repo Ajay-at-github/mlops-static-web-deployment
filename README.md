@@ -33,5 +33,3 @@ docker push <aws_account_id>.dkr.ecr.ap-south-1.amazonaws.com/<repository_name>:
 ```
 ### Result
 ![alt text](image.png)
-
-Website url: http://13.203.26.158:5000/
